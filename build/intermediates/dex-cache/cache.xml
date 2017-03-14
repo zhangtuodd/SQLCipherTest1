@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\perfect_SDK\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="G:\AS-WorkSpace\SQLCipherTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_33ec09118c5cd9c79d4f9fc04f289eb37f80ac6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AS-WorkSpace\SQLCipherTest1\app\libs\commons-codec.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="G:\AS-WorkSpace\SQLCipherTest1\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec_0b017da888af3dd415e7f26d722c93fe61c203ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AS-WorkSpace\SQLCipherTest1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="G:\AS-WorkSpace\SQLCipherTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_242218131930a53822bc25e162e108fa3b3ff5a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AS-WorkSpace\SQLCipherTest1\app\libs\sqlcipher.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c802fb62d64c80dd5f6972a4533720423ff9ad8">
+        <dex dex="G:\AS-WorkSpace\SQLCipherTest1\app\build\intermediates\transforms\dex\debug\folders\1000\2\sqlcipher_83f23ae1b56b77b9386d5e8cbbde44f86aef7853\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\AS-WorkSpace\SQLCipherTest1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dca67c0ac514c245353dcb4f5da0beb0451fba90">
+        <dex dex="G:\AS-WorkSpace\SQLCipherTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f7483aa843277cf2435befed5c25578e9c4687b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android Studio2.1\android-studio-ide-143.2821654-windows\android-studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="G:\AS-WorkSpace\SQLCipherTest1\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_d479999de22dc880fc1157fb07aeb5adcdc4f248\classes.dex" />
+    </item>
+
+</items>

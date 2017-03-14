@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Mon Mar 13 14:06:04 CST 2017
+2.base=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+6.file=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+7.file=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_242218131930a53822bc25e162e108fa3b3ff5a4\\classes.dex
+5.base=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libstlport_shared.so
+4.set=NATIVE_RESOURCE
+6.base=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f7483aa843277cf2435befed5c25578e9c4687b5\\classes.dex
+9.set=ASSET
+9.file=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\assets\\debug\\icudt46l.zip
+10.base=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=DEX
+7.base=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_242218131930a53822bc25e162e108fa3b3ff5a4
+8.base=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+3.file=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libdatabase_sqlcipher.so
+3.set=NATIVE_RESOURCE
+1.base=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f7483aa843277cf2435befed5c25578e9c4687b5
+9.base=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\assets\\debug
+4.file=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libsqlcipher_android.so
+8.set=NATIVE_RESOURCE
+0.set=DEX

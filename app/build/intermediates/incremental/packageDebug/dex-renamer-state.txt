@@ -1,0 +1,7 @@
+#Mon Mar 13 14:06:04 CST 2017
+base.0=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f7483aa843277cf2435befed5c25578e9c4687b5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_242218131930a53822bc25e162e108fa3b3ff5a4\\classes.dex
+base.1=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_242218131930a53822bc25e162e108fa3b3ff5a4
+file.0=G\:\\AS-WorkSpace\\SQLCipherTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f7483aa843277cf2435befed5c25578e9c4687b5\\classes.dex
